@@ -1,0 +1,10 @@
+{
+    "name": "electron_blueprint",
+    "version": "1.0.0",
+    "description": "initial code for electron application",
+    "main": "app.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Sofiane Benmesbah"
+}
