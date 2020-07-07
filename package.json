@@ -8,6 +8,6 @@
     },
     "author": "Sofiane Benmesbah",
     "dependencies": {
-        "electron": "^7.1.2"
+        "electron": "^7.2.4"
     }
 }
